@@ -1,0 +1,9 @@
+flask==1.1.2
+boto3==1.17.13
+pandas==1.2.2
+gevent==21.1.2
+gunicorn==20.0.4
+sagemaker==2.41.0
+numpy==1.19.5
+scipy==1.5.4
+scikit-learn==0.24.2
